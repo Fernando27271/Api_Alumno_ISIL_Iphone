@@ -75,7 +75,7 @@
                 },
                 {
                     "id": 3,
-                    "nombre": "Desarrollo Web Avanzado III - React",
+                    "nombre": "Desarrollo Web Avanzado III (React)",
                     "icono": "laptopcomputer",
                     "notas": [
                         {
@@ -110,7 +110,7 @@
                 },
                 {
                     "id": 4,
-                    "nombre": "Programación Orientada a Objetos I",
+                    "nombre": "Programación Orientada a Objetos",
                     "icono": "cube",
                     "notas": [
                         {
@@ -145,7 +145,7 @@
                 },
                 {
                     "id": 5,
-                    "nombre": "Análisis y Diseño de Sistemas ADS1",
+                    "nombre": "Análisis y Diseño de Sistemas I",
                     "icono": "uiwindow.split.2x1",
                     "notas": [
                         {
