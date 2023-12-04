@@ -75,7 +75,7 @@
                 },
                 {
                     "id": 3,
-                    "nombre": "Desarrollo Web Avanzado III (React)",
+                    "nombre": "Desarrollo Web Avanzado (React)",
                     "icono": "laptopcomputer",
                     "notas": [
                         {
@@ -145,7 +145,7 @@
                 },
                 {
                     "id": 5,
-                    "nombre": "Análisis y Diseño de Sistemas I",
+                    "nombre": "Análisis y Diseño de Sistemas II",
                     "icono": "uiwindow.split.2x1",
                     "notas": [
                         {
