@@ -1,0 +1,104 @@
+{
+    "nombre": "Fernando Choy",
+    "cursos": [
+      {
+        "id": 1,
+        "nombre": "Desarrollo de Aplicaciones Móviles",
+        "icono": "iphone.gen1",
+        "notas": [
+          {"nombre": "Evaluación permanente 1", "contenido": 17},
+          {"nombre": "Evaluación permanente 2", "contenido": 18},
+          {"nombre": "Evaluación permanente 3", "contenido": 20},
+          {"nombre": "Evaluación permanente 4", "contenido": 19},
+          {"nombre": "Examen parcial", "contenido": 20},
+          {"nombre": "Examen final", "contenido": 19},
+          {"nombre": "Promedio final", "contenido": 19}
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Algoritmos y Estructuras de Datos I",
+        "icono": "function",
+        "notas": [
+            {"nombre": "Evaluación permanente 1", "contenido": 18},
+            {"nombre": "Evaluación permanente 2", "contenido": 18},
+            {"nombre": "Evaluación permanente 3", "contenido": 17},
+            {"nombre": "Evaluación permanente 4", "contenido": 20},
+            {"nombre": "Examen parcial", "contenido": 18},
+            {"nombre": "Examen final", "contenido": 20},
+            {"nombre": "Promedio final", "contenido": 19}
+          ]
+      },
+      {
+        "id": 3,
+        "nombre": "Desarrollo Web Avanzado III - React",
+        "icono": "laptopcomputer",
+        "notas": [
+            {"nombre": "Evaluación permanente 1", "contenido": 19},
+            {"nombre": "Evaluación permanente 2", "contenido": 19},
+            {"nombre": "Evaluación permanente 3", "contenido": 18},
+            {"nombre": "Evaluación permanente 4", "contenido": 20},
+            {"nombre": "Examen parcial", "contenido": 19},
+            {"nombre": "Examen final", "contenido": 19},
+            {"nombre": "Promedio final", "contenido": 19}
+          ]
+      },
+      {
+        "id": 4,
+        "nombre": "Programación Orientada a Objetos I",
+        "icono": "cube",
+        "notas": [
+            {"nombre": "Evaluación permanente 1", "contenido": 16},
+            {"nombre": "Evaluación permanente 2", "contenido": 17},
+            {"nombre": "Evaluación permanente 3", "contenido": 17},
+            {"nombre": "Evaluación permanente 4", "contenido": 19},
+            {"nombre": "Examen parcial", "contenido": 20},
+            {"nombre": "Examen final", "contenido": 17},
+            {"nombre": "Promedio final", "contenido": 18}
+          ]
+      },
+      {
+        "id": 5,
+        "nombre": "Análisis y Diseño de Sistemas ADS1",
+        "icono": "uiwindow.split.2x1",
+        "notas": [
+            {"nombre": "Evaluación permanente 1", "contenido": 20},
+            {"nombre": "Evaluación permanente 2", "contenido": 20},
+            {"nombre": "Evaluación permanente 3", "contenido": 19},
+            {"nombre": "Evaluación permanente 4", "contenido": 20},
+            {"nombre": "Examen parcial", "contenido": 18},
+            {"nombre": "Examen final", "contenido": 17},
+            {"nombre": "Promedio final", "contenido": 18}
+          ]
+      },
+      {
+        "id": 6,
+        "nombre": "Aplicaciones móviles para Iphone",
+        "icono": "apple.logo",
+        "notas": [
+            {"nombre": "Evaluación permanente 1", "contenido": 20},
+            {"nombre": "Evaluación permanente 2", "contenido": 20},
+            {"nombre": "Evaluación permanente 3", "contenido": 20},
+            {"nombre": "Evaluación permanente 4", "contenido": 20},
+            {"nombre": "Examen parcial", "contenido": 20},
+            {"nombre": "Examen final", "contenido": 19},
+            {"nombre": "Promedio final", "contenido": 20}
+          ]
+      },
+      {
+        "id": 7,
+        "nombre": "Fundamentos de Swift y SwiftUI",
+        "icono": "swift",
+        "notas": [
+            {"nombre": "Evaluación permanente 1", "contenido": 19},
+            {"nombre": "Evaluación permanente 2", "contenido": 18},
+            {"nombre": "Evaluación permanente 3", "contenido": 19},
+            {"nombre": "Evaluación permanente 4", "contenido": 18},
+            {"nombre": "Examen parcial", "contenido": 18},
+            {"nombre": "Examen final", "contenido": 18},
+            {"nombre": "Promedio final", "contenido": 18}
+          ]
+      }
+    ]
+}
+  
